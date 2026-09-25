@@ -19,13 +19,13 @@ import { Footer } from '@/src/components/Footer';
 // });
 
 const clashDisplay = localFont({
-  src: './fonts/ClashDisplay-Variable.woff2',
+  src: './fonts/D-DIN-Bold.woff2',
   variable: '--font-clash-display',
   display: 'swap',
 });
 
 const generalSans = localFont({
-  src: './fonts/GeneralSans-Variable.woff2',
+  src: './fonts/D-DIN.woff2',
   variable: '--font-general-sans',
   display: 'swap',
 });
